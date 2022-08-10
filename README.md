@@ -1,19 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**IggyNP/IggyNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my profile!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C at 42 Málaga. Check my [Piscine repository](https://github.com/IggyNP/42-Piscine-C) out and learn more about it.
+- 🔭 Meanwhile, I'm looking for a job that allows me to further develop my skills.
+- 🔎 Very interested in Data Science, specially about development of processes to use data and its continous integration with Machine Learning algorithms.
+- ⚡ Fun facts:
+  - I love blockchain technology. Been involved with NFTs in Solana, attending exclusive IRL parties for holders only, 
+  and even was the community manager for one project at some point (fun times).
+  - I have a business and marketing background:
+     - MBA in International Management.
+     - Masters Degree in Digital Marketing & E-Commerce.
+     - Co-founder of 🍻 [Cerveza Marbella](https://www.instagram.com/cervezamarbella/).
+  - Crossfitter. Don't be offended by my pullups if you're a gym brogrammer.
+  - Lofi hip-hop addict. 🐱
+  
 <p align="center" > 
  <img width="500" height="320" src="https://github.com/IggyNP/IggyNP/blob/main/ciudad.gif" >
  </p>
