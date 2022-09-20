@@ -3,8 +3,6 @@
 ### Welcome to my profile!
 
 - 🌱 I’m currently learning C at 42 Málaga. Check my [Piscine repository](https://github.com/IggyNP/42-Piscine-C) out and learn more about it.
-- 🔭 Meanwhile, I'm looking for a job that allows me to further develop my skills.
-- 🔎 Very interested in Data Science, specially about development of processes to use data and its continous integration with Machine Learning algorithms.
 - ⚡ Fun facts:
   - I love blockchain technology. Been involved with NFTs in Solana, attending exclusive IRL parties for holders only, 
   and even was the community manager for one project at some point (fun times).
