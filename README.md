@@ -10,7 +10,6 @@
      - MBA in International Management.
      - Masters Degree in Digital Marketing & E-Commerce.
      - Co-founder of 🍻 [Cerveza Marbella](https://www.instagram.com/cervezamarbella/).
-  - Crossfitter. Don't get triggered by my pullups if you're a gym brogrammer.
   - Lofi hip-hop addict. 🐱
   
 <p align="center" > 
