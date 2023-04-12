@@ -23,6 +23,8 @@
   - I'm a Co-founder of 🍻 [Cerveza Marbella](https://www.instagram.com/cervezamarbella/).
   - Explorer of the great outdoors. 🌲
   - Lofi hip-hop addict. 🐱
+<br/>
+
   
 <p align="center" > 
  <img width="500" height="320" src="https://github.com/IggyNP/IggyNP/blob/main/ciudad.gif" >
