@@ -28,3 +28,6 @@
  <img width="500" height="320" src="https://github.com/IggyNP/IggyNP/blob/main/ciudad.gif" >
  </p>
  <hr />
+ <div align="center">
+  <a href="https://www.linkedin.com/in/ignacio-navarro-poves/" target="_blank"><img style="margin:10px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30" /></a>
+  <a href="mailto:ignacionp94@gmail.com" target="_blank"><img style="margin:10px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" /></a>
