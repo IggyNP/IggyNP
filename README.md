@@ -5,7 +5,6 @@
 - 💻 I'm a junior Frontend Developer with a passion for creating beautiful and responsive web applications. I have experience in HTML, CSS, JavaScript, React, and other frontend frameworks.
 - 🔍 I'm currently seeking new job opportunities to further improve my skills and grow as a developer.
 - 🌱 Learning Next.js.
-- 📚 I'm also a student at [42 Málaga](https://www.42malaga.com/). Check my [Piscine repository](https://github.com/IggyNP/42-Piscine-C) out and learn more about it.
 
 ### Languages and Tools  
 <div align="center">  
