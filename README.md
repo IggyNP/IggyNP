@@ -19,9 +19,8 @@
 </div>  
 
 ### ⚡ Other facts:
-  - I love blockchain technology. I've been involved with NFTs in Solana, attending exclusive IRL parties for holders only, and even served as the community manager for one project.
   - I have a background in business and marketing, including an MBA in International Management and a Master's Degree in Digital Marketing & E-Commerce.
-  - I'm a Co-founder of 🍻 [Cerveza Marbella](https://www.instagram.com/cervezamarbella/).
+  - I love blockchain technology. I've been involved with NFTs in Solana, attending exclusive IRL parties for holders only, and even served as the community manager for one project.
   - Explorer of the great outdoors. 🌲
   - Lofi hip-hop addict. 🐱
 <br/>
