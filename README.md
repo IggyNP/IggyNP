@@ -2,9 +2,8 @@
 
 ### About me
 
-- 💻 I'm a junior Frontend Developer with a passion for creating beautiful and responsive web applications. I have experience in HTML, CSS, JavaScript, React, and other frontend frameworks.
+- 💻 I'm a junior Frontend Developer with a passion for creating beautiful and responsive web applications. I'm most experienced in HTML, CSS, JavaScript, React, and Next.js.
 - 🔍 I'm currently seeking new job opportunities to further improve my skills and grow as a developer.
-- 🌱 Learning Next.js.
 
 ### Languages and Tools  
 <div align="center">  
