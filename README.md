@@ -3,7 +3,8 @@
 ### About me
 
 - 💻 I'm a junior Frontend Developer with a passion for creating beautiful and responsive web applications. I'm most experienced in HTML, CSS, JavaScript, React, and Next.js.
-- 🔍 I'm currently seeking new job opportunities to further improve my skills and grow as a developer.
+- 📖 Pursuing a Higher National Diploma (HND) in Web Development (Grado Superior de DAW).
+- 🔍 Seeking new job opportunities to further improve my skills and grow as a developer.
 
 ### Languages and Tools  
 <div align="center">  
@@ -21,6 +22,7 @@
   - I have a background in business and marketing, including an MBA in International Management and a Master's Degree in Digital Marketing & E-Commerce.
   - I love blockchain technology. I've been involved with NFTs in Solana, attending exclusive IRL parties for holders only, and even served as the community manager for one project.
   - Explorer of the great outdoors. 🌲
+  - Crossfitter. 🏋🏼
   - Lofi hip-hop addict. 🐱
 <br/>
 
