@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Iggy</h1>
-<h3 align="center">Frontend Engineer · React, Next.js & Astro</h3>
+<h3 align="center">Product Engineer · Full-stack (TypeScript, React, Next.js, Node)</h3>
 
 <p align="center">
-  I build fast, polished web experiences, from scroll-driven interfaces to full
+  I turn business problems into working systems, from polished interfaces to
   online stores with payments, accounts and their own servers.
 </p>
 
@@ -16,14 +16,12 @@
 
 ### What I do
 
-I design and build modern websites and web apps end to end: the interface people see and the parts they don't (payments, auth, data, deployment).
+I come from business (**BA in Business Management**, **MBA in International Management**, **Master's in Digital Marketing & E-Commerce**) and I build software. I help decide what's worth building, then build it end to end: the interface people see and the parts they don't (payments, auth, data, deployment).
 
 - Production UIs with **React**, **Next.js**, **Astro** and **Tailwind CSS**, with motion that feels intentional (Framer Motion, scroll-driven scenes)
 - Full-stack features with **TypeScript**: Stripe checkouts and webhooks, Clerk auth, headless CMS, Postgres/SQLite, transactional email
 - Shipping and running it: Vercel, and my own VPS with Node, Caddy and systemd
 - Performance and SEO baked in: small JS budgets, i18n, sitemaps, metadata
-
-I also bring a business view to product work, with an **MBA in International Management** and a **Master's in Digital Marketing & E-Commerce**. I build features with both the user and the business goal in mind.
 
 ---
 
