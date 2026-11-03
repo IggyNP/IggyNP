@@ -57,5 +57,5 @@ More on [iggynp.com](https://iggynp.com).
 When I'm off the keyboard you'll find me in the outdoors, training CrossFit, exploring blockchain and Web3 communities, or building things to a steady stream of lo-fi.
 
 <p align="center">
-  <img width="500" src="ciudad.gif" alt="City animation" />
+  <img width="100%" src="ciudad.gif" alt="City animation" />
 </p>
