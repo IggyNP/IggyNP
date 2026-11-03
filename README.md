@@ -7,15 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://iggynp.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-iggynp.com-2ee6b6?style=for-the-badge&logoColor=white" alt="Portfolio" height="28" />
-  </a>
-  <a href="https://www.linkedin.com/in/ignacio-navarro-poves/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
-  </a>
-  <a href="mailto:dev@iggynp.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-dev@iggynp.com-D14836?style=for-the-badge" alt="Email" height="28" />
-  </a>
+  <a href="https://iggynp.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-iggynp.com-2ee6b6?style=for-the-badge&logoColor=white" alt="Portfolio" height="28" /></a>
+  <a href="https://www.linkedin.com/in/ignacio-navarro-poves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
+  <a href="mailto:dev@iggynp.com" target="_blank"><img src="https://img.shields.io/badge/Email-dev@iggynp.com-D14836?style=for-the-badge" alt="Email" height="28" /></a>
 </p>
 
 ---
@@ -26,7 +20,7 @@ I design and build modern websites and web apps end to end: the interface people
 
 - Production UIs with **React**, **Next.js**, **Astro** and **Tailwind CSS**, with motion that feels intentional (Framer Motion, scroll-driven scenes)
 - Full-stack features with **TypeScript**: Stripe checkouts and webhooks, Clerk auth, headless CMS, Postgres/SQLite, transactional email
-- Shipping and running it: Vercel, and my own Linux VPS with Node, Caddy and systemd
+- Shipping and running it: Vercel, and my own VPS with Node, Caddy and systemd
 - Performance and SEO baked in: small JS budgets, i18n, sitemaps, metadata
 
 I also bring a business view to product work, with an **MBA in International Management** and a **Master's in Digital Marketing & E-Commerce**. I build features with both the user and the business goal in mind.
@@ -51,7 +45,7 @@ More on [iggynp.com](https://iggynp.com).
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,html,css&perline=8" alt="Frontend" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,sqlite,vercel,linux,git,wordpress&perline=8" alt="Backend and tooling" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,sqlite,vercel,git,wordpress&perline=8" alt="Backend and tooling" />
 </p>
 
 <p align="center"><sub>Also: Framer Motion · Stripe · Clerk · Sanity · Resend · Caddy · Vitest · i18next</sub></p>
