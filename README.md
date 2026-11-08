@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://iggynp.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-iggynp.com-2ee6b6?style=for-the-badge&logoColor=white" alt="Portfolio" height="28" /></a>
-  <a href="https://www.linkedin.com/in/ignacio-navarro-poves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
-  <a href="mailto:dev@iggynp.com" target="_blank"><img src="https://img.shields.io/badge/Email-dev@iggynp.com-D14836?style=for-the-badge" alt="Email" height="28" /></a>
+  <a href="https://iggynp.com" target="_blank"><img src="assets/badge-portfolio.svg" alt="Portfolio" height="28" /></a>
+  <a href="https://www.linkedin.com/in/ignacio-navarro-poves/" target="_blank"><img src="assets/badge-linkedin.svg" alt="LinkedIn" height="28" /></a>
+  <a href="mailto:dev@iggynp.com" target="_blank"><img src="assets/badge-email.svg" alt="Email" height="28" /></a>
 </p>
 
 ---
